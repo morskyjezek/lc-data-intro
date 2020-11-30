@@ -71,7 +71,7 @@ So, what is `^[Oo]rgani.e\b` going to match?
 > > Organike
 > > ~~~
 > > Or, any other string that starts a line, begins with a letter `o` in lower or capital case, proceeds with `rgani`, has any character in the 7th position, and ends with the letter `e`.
-> > [See solution visulaized on Regexper.com](https://regexper.com/#%5E%5BOo%5Drgani.e)
+> > [See solution visualized on Regexper.com](https://regexper.com/#%5E%5BOo%5Drgani.e)
 > {: .solution}
 {: .challenge}
 
@@ -182,7 +182,9 @@ Work in teams of four to six on the exercises below. When you think you have the
 
 When you finish, split your team into two groups and write each other some tests. These should include a) strings you want the other team to write regex for and b) regular expressions you want the other team to work out what they would match. 
 
-Then test each other on the answers. If you want to check your logic use [regex101](https://regex101.com/), [myregexp](http://myregexp.com/), [regex pal](http://www.regexpal.com/) or [regexper.com](http://regexper.com/): the first three help you see what text your regular expression will match, the latter visualises the workflow of a regular expression.
+Then test each other on the answers. If you want to check your logic use [regex101](https://regex101.com/), [myregexp](http://myregexp.com/), [regex pal](http://www.regexpal.com/) or [regexper.com](http://regexper.com/): the first three help you see what text your regular expression will match, the latter 
+
+lises the workflow of a regular expression.
 
 > ## Using square brackets
 > What will the regular expression `Fr[ea]nc[eh]` match?
